@@ -3,6 +3,8 @@ Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el
 
 # 	<ins> Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.   </ins>
 1.-Introducción al desarrollo web    
+<img width="207" height="177" alt="image" src="https://github.com/user-attachments/assets/798f8785-394d-426a-b0d6-fe6c579eefad" />
+
 Historia y evolución del desarrollo web  
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
 2.Arquitectura de aplicaciones web  
